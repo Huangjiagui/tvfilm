@@ -1,0 +1,48 @@
+{
+	"innerlist":[
+                  {
+                    "title":"gray果果",
+                    "contents":"爱只想属于虚弱中的他人",
+                    "follownum":5234,
+                    "innerImg":"",
+                    "msgnum":12,
+                    "goodnum":25,
+                    "portraiturl":"static/img/media.jpg",
+                    "erweima":"static/img/broad1.png",
+                    "isshow":true
+                  },
+                  {
+                    "title":"love楚乔",
+                    "contents":"在魔法生物的技术支持下弄了个公号。可以看到《天窗夜谈》最新章节、手头进行的超本研究(的废渣)以及实惠人老实的画。语音读诗功能待开发WeChat:Blavatsky_Eliparvic 或者识别二维码",
+                    "follownum":5234,
+                    "innerImg":"",
+                    "msgnum":123,
+                    "goodnum":2535,
+                    "portraiturl":"static/img/hjgtou4.jpg",
+                    "erweima":"static/img/broad2.png",
+                    "isshow":true
+                  },
+                  {
+                    "title":"Blavatsky",
+                    "contents":"在魔法生物的技术支持下弄了个公号。可以看到《天窗夜谈》最新章节、手头进行的超本研究(的废渣)以及实惠人老实的画。语音读诗功能待开发WeChat:Blavatsky_Eliparvic 或者识别二维码",
+                    "follownum":5234,
+                    "innerImg":"",
+                    "msgnum":123,
+                    "goodnum":2535,
+                    "portraiturl":"static/img/hjgtou2.jpg",
+                    "erweima":"static/img/broad2.png",
+                    "isshow":false
+                  },
+                  {
+                    "title":"grave不饿",
+                    "contents":"在魔法生物的技术支持下弄了个公号。可以看到《天窗夜谈》最新章节、手头进行的超本研究(的废渣)以及实惠人老实的画。语音读诗功能待开发WeChat:Blavatsky_Eliparvic 或者识别二维码",
+                    "follownum":5234,
+                    "innerImg":"",
+                    "msgnum":123,
+                    "goodnum":2535,
+                    "portraiturl":"static/img/hjgtou1.jpg",
+                    "erweima":"static/img/broad2.png",
+                    "isshow":false
+                  }                 
+                ]
+}
